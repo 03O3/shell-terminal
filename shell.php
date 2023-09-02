@@ -584,10 +584,7 @@ if (isset($_GET["feature"])) {
     <body>
         <div id="shell">
             <pre id="shell-content">
-                <div id="shell-logo">
-                  <p>
-
-                      
+                <div id="shell-logo">         
                ...
              ;::::;
            ;::::; :;
@@ -610,7 +607,6 @@ if (isset($_GET["feature"])) {
   `:::::`::::::::;' /  / `:#
    ::::::`:::::;'  /  /   `#
                       
-                  </p>
                 </div>
             </pre>
             <div id="shell-input">
