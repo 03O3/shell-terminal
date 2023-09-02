@@ -585,28 +585,8 @@ if (isset($_GET["feature"])) {
         <div id="shell">
             <pre id="shell-content">
                 <div id="shell-logo">         
-               ...
-             ;::::;
-           ;::::; :;
-         ;:::::'   :;
-        ;:::::;     ;.
-       ,:::::'       ;           OOO\
-       ::::::;       ;          OOOOO\
-       ;:::::;       ;         OOOOOOOO
-      ,;::::::;     ;'         / OOOOOOO
-    ;:::::::::`. ,,,;.        /  / DOOOOOO
-  .';:::::::::::::::::;,     /  /     DOOOO
- ,::::::;::::::;;;;::::;,   /  /        DOOO
-;`::::::`'::::::;;;::::: ,#/  /          DOOO
-:`:::::::`;::::::;;::: ;::#  /            DOOO
-::`:::::::`;:::::::: ;::::# /              DOO
-`:`:::::::`;:::::: ;::::::#/               DOO
- :::`:::::::`;; ;:::::::::##                OO
- ::::`:::::::`;::::::::;:::#                OO
- `:::::`::::::::::::;'`:;::#                O
-  `:::::`::::::::;' /  / `:#
-   ::::::`:::::;'  /  /   `#
-                      
+                    <a href="https://t.me/hex_array">https://t.me/hex_array</a><span></span>
+                    Enjoy into my braind<spain></spain>
                 </div>
             </pre>
             <div id="shell-input">
